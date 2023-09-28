@@ -1,16 +1,17 @@
-# [tktk Module Name]
+# Intro to the CLI Lab
 
 ![Hero image](./assets/tktkhero-main.png)
 
 ## Introduction
 
-tktk Introduce the lab. What will the students build in this lab?
+Learning the command line is a foundational skill for new coders. It provides direct interaction with your computer, offering a level of control that's often not possible with graphical interfaces. As you advance, you'll find that many development tools, libraries, and cloud services are optimized for command line use. Additionally, understanding the command line is crucial for tasks like version control, file manipulation, and task automation. 
+
+Practice using this essential tool can significantly streamline your workflow, making you more efficient and confident as a developer.
 
 ## Lab content
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [tktk Starter code remove if no starter](#tktk-external-repo-link)
 - [tktk Solution code](#tktk-external-repo-link)
 
 ## Time to complete
