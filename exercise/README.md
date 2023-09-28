@@ -43,6 +43,8 @@ For example, `cp source.txt destination.txt` would copy the contents of `source.
 
 > Check the manual: Run `man cp` to see the options — hit the `Q` key to get out of the manual page viewer.
 
+**Practice:**
+
   1. Copy `storm_trooper.txt` from `death_star` to `tatooine`.
 
 <br>
