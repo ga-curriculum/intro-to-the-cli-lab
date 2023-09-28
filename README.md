@@ -12,11 +12,11 @@ Practice using this essential tool can significantly streamline your workflow, m
 
 - [Setup](./setup/README.md)
 - [Lab exercise](./exercise/README.md)
-- [tktk Solution code](#tktk-external-repo-link)
+- ***No Solution Code Provided***
 
 ## Time to complete
 
-tktk Estimated time to complete core lab exercise: 
+Estimated time to complete core lab exercise: **60 min**
 
 ## Additional content 
 
