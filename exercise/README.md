@@ -11,6 +11,7 @@ A long time ago in a Unix environment far, far away... young Jedi Padawans who k
 
 The Terminal...
 
+<br>
 
 ### Part I: `mkdir` & `touch` - Set the Scene
 
@@ -32,6 +33,7 @@ Both commands provide a quick and straightforward way to set up your project's s
 
   6. Inside of `tatooine` make a directory called `millenium_falcon`, and in it create `han_solo.txt` and `chewbacca.txt` files.
 
+<br>
 
 ### Part II: `cp` - copy
 
@@ -43,6 +45,7 @@ For example, `cp source.txt destination.txt` would copy the contents of `source.
 
   1. Copy `storm_trooper.txt` from `death_star` to `tatooine`.
 
+<br>
 
 ### Part III: `mv` - move
 
@@ -62,6 +65,7 @@ To move a file from one directory to another, you could use `mv myfile.txt /new/
 
   4. Move `princess_leia.txt` into the `millenium_falcon`.
 
+<br>
 
 ### Part IV: `mv` - rename
 
@@ -73,6 +77,7 @@ Using the command `mv oldfile.txt newfile.txt` will rename `oldfile.txt` to `new
 
   1. Rename `ben_kenobi.txt` to `obi_wan.txt`.
 
+<br>
 
 ### Part V: `rm` - remove
 
@@ -86,6 +91,7 @@ While the `rm` command is efficient for cleaning up, it comes with a ***caution*
 
 Bye!
 
+<br>
 
 ### Part VI: All together
 
@@ -119,18 +125,20 @@ Let's try these all together!
 
   9. Move all of the `tie_fighters` out of the `death_star` and into `galaxy_far_far_away`.
 
+<br>
 
 ### Part VII: `rm -r`: Remove directories and everything they contain
 
 Remember, this command will not ask you if you "really want to delete." It will just delete.
 Once you hit enter, its gone forever. 
 
-Always make sure are deleting the right thing, or you could accidentally delete the contents of your computer (it has happened).
+Always make sure you are deleting the right thing, or you could accidentally delete the contents of your computer (it has happened).
 
 **Practice:**
 
   1. Remove `tie_fighter_2` and `tie_fighter_3`.
 
+<br>
 
 ## Part VIII: May the Force Be With You...
 
@@ -144,6 +152,7 @@ Let's wrap up this story properly.
 
   3. Return `x_wing` and the `millenium_falcon` to `yavin_4`.
 
+<br>
 
 ## Part IX: Clean up 
 
