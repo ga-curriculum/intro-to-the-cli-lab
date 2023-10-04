@@ -1,7 +1,7 @@
 # Intro to the CLI Lab - Setup
 
 ![Hero image](./assets/hero.png)
-
+tktk - Hunter an asset is needed here "Setup"
 ## Setup
 
 This Lab only requires the use of your system's Command Line Interface (CLI).
