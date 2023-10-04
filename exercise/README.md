@@ -1,8 +1,8 @@
 # Intro to the CLI Lab - Exercise
 
 ![Hero image](./assets/hero.png)
+tktk - Hunter, an asset is need here as well for "Exercise"
 
-<img src="https://i.imgur.com/YmNE2R2.png">
 
 
 ## Episode X: A New Terminal
