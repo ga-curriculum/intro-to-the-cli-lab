@@ -1,7 +1,7 @@
 # Intro to the CLI Lab
 
 ![Hero image](./assets/tktkhero-main.png)
-tktk - Hunter we'll need a replacement asset that lists "Intro to the CLI lab"
+
 ## Introduction
 
 Learning the command line is a foundational skill for new coders. It provides direct interaction with your computer, offering a level of control often impossible with graphical interfaces. As you advance, you'll find that many development tools, libraries, and cloud services are optimized for command-line use. Understanding the command line is crucial for tasks like version control, file manipulation, and task automation. 
