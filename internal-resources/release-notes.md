@@ -10,7 +10,7 @@ This release modularizes the legacy hw-command-line-practice lab and provides so
 
 **Additions**
 
-- We added additional scaffolding to each section providing students with review materials relevant the tasks they are being asked to perform. 
+- Add additional scaffolding to each section providing students with review materials relevant the tasks they are being asked to perform. 
 - This is the first lab students encounter and a critical point to provide extra support and confidence building. Future lessons will not provide the same level of built in support as they become more independent in their learning. 
 
 **Changes**
