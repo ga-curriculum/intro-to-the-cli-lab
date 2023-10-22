@@ -1,5 +1,3 @@
-# Intro to the CLI Lab - Level Up
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI Lab - Level Up](./assets/hero.png)
 
 ***Nothing here yet.***
