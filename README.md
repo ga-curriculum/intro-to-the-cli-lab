@@ -1,6 +1,4 @@
-# Intro to the CLI Lab
-
-![Hero image](./assets/tktkhero-main.png)
+# ![Intro to the CLI Lab](./assets/hero.png)
 
 ## Introduction
 

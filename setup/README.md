@@ -1,6 +1,4 @@
-# Intro to the CLI Lab - Setup
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI Lab - Setup](./assets/hero.png)
 
 ## Setup
 

@@ -1,6 +1,4 @@
-# Intro to the CLI Lab - Exercise
-
-![Hero image](./assets/hero.png)
+# ![Intro to the CLI Lab - Exercise](./assets/hero.png)
 
 ## Episode X: A New Terminal
 
