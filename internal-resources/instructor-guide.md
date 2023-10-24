@@ -1,6 +1,4 @@
-# Intro to the CLI Lab - Instructor Guide
-
-![Hero image](../assets/hero.png)
+# ![Intro to the CLI Lab - Instructor Guide](../assets/hero.png)
 
 ***Nothing here yet.***
 

@@ -1,6 +1,4 @@
-# Intro to the CLI Lab - Release Notes
-
-![Hero image](../assets/hero.png)
+# ![Intro to the CLI Lab - Release Notes](../assets/hero.png)
 
 ## Version 1.0 - Updates from legacy content
 
