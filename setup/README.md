@@ -12,11 +12,11 @@ This lab only requires the use of your system's Command Line Interface (CLI).
 cd ~/code/ga/labs
 ```
 
-3) Make a new directory called `star_wars`, then enter this directory:
+3) Make a new directory called `star-wars`, then enter this directory:
 
 ```bash
-mkdir star_wars
-cd star_wars
+mkdir star-wars
+cd star-wars
 ```
 
-Complete all work inside the `star_wars` directory by utilizing the CLI.
+Complete all work inside the `star-wars` directory by utilizing the CLI.

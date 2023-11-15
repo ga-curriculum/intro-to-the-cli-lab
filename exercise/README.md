@@ -14,17 +14,17 @@ Both commands provide a quick and straightforward way to set up your project's s
 
 **Practice:**
 
-1. At the start of this lab, you should already be in a directory called `star_wars`.
+1. At the start of this lab, you should already be in a directory called `star-wars`.
 
-2. Create a new directory here called `death_star`.
+2. Create a new directory here called `death-star`.
 
-3. Create the following files inside of it: `darth_vader.txt`, `princess_leia.txt`, and `storm_trooper.txt`.
+3. Create the following files inside of it: `darth-vader.txt`, `princess-leia.txt`, and `storm-trooper.txt`.
 
-4. Make another directory in `star_wars` called `galaxy_far_far_away`.
+4. Make another directory in `star-wars` called `galaxy-far-far-away`.
 
-5. Inside the `galaxy_far_far_away` directory, make a new directory named `tatooine` and create the following files inside it: `luke.txt` and `ben_kenobi.txt`.
+5. Inside the `galaxy-far-far-away` directory, make a new directory named `tatooine` and create the following files inside it: `luke.txt` and `ben-kenobi.txt`.
 
-6. Inside the `tatooine` directory, make a directory called `millenium_falcon`, and inside it, create `han_solo.txt` and `chewbacca.txt` files.
+6. Inside the `tatooine` directory, make a directory called `millenium-falcon`, and inside it, create `han-solo.txt` and `chewbacca.txt` files.
 
 ## Part II: `cp` - copy
 
@@ -36,25 +36,25 @@ For example, `cp source.txt destination.txt` would copy the contents of `source.
 
 **Practice:**
 
-1. Copy `storm_trooper.txt` from the `death_star` directory to the `tatooine` directory.
+1. Copy `storm-trooper.txt` from the `death-star` directory to the `tatooine` directory.
 
 ## Part III: `mv` - move
 
 The `mv` command is your go-to tool for moving and renaming files and directories. Short for ***move***, this command allows you to take a file from one location and place it into another. But it's more versatile than that; you'll see why soon.
 
-You could use `mv myfile.txt /new/folder/` to move a file from one directory to another.
+You could use `mv myfile.txt /new/directory/` to move a file from one directory to another.
 
 > 💡 Check the manual: Run `man mv` to see the options —hit the `Q` key to get out of the manual page viewer.
 
 **Practice:**
 
-1. Move `luke.txt` and `ben_kenobi.txt` to the `millenium_falcon` directory.
+1. Move `luke.txt` and `ben-kenobi.txt` to the `millenium-falcon` directory.
 
-2. Move the `millenium_falcon` directory out of the `tatooine` directory and into the `galaxy_far_far_away` directory.
+2. Move the `millenium-falcon` directory out of the `tatooine` directory and into the `galaxy-far-far-away` directory.
 
-3. Move the `millenium_falcon` directory into the `death_star` directory.
+3. Move the `millenium-falcon` directory into the `death-star` directory.
 
-4. Move `princess_leia.txt` into the `millenium_falcon` directory.
+4. Move `princess-leia.txt` into the `millenium-falcon` directory.
 
 ## Part IV: `mv` - rename
 
@@ -64,7 +64,7 @@ Using the command `mv oldfile.txt newfile.txt` will rename `oldfile.txt` to `new
 
 **Practice:**
 
-1. Rename `ben_kenobi.txt` to `obi_wan.txt`.
+1. Rename `ben-kenobi.txt` to `obi-wan.txt`.
 
 ## Part V: `rm` - remove
 
@@ -74,7 +74,7 @@ While the `rm` command is efficient for cleaning up, it comes with a ***caution*
 
 **Practice:**
 
-  1. Delete `obi_wan.txt`.
+  1. Delete `obi-wan.txt`.
 
 ## Part VI: All together
 
@@ -90,23 +90,23 @@ Let's try these all together!
 
 **Practice:**
 
-1. In the `galaxy_far_far_away` directory, make a directory called `yavin_4`.
+1. In the `galaxy-far-far-away` directory, make a directory called `yavin-4`.
 
-2. Move the `millenium_falcon` directory out of the `death_star` directory and into the `yavin_4` directory.
+2. Move the `millenium-falcon` directory out of the `death-star` directory and into the `yavin-4` directory.
 
-3. Make a directory in the `yavin_4` directory called `x_wing`.
+3. Make a directory in the `yavin-4` directory called `x-wing`.
 
-4. Move `princess_leia.txt` to the `yavin_4` directory and `luke.txt` to the `x_wing` directory.
+4. Move `princess-leia.txt` to the `yavin-4` directory and `luke.txt` to the `x-wing` directory.
 
-5. Move the `millenium_falcon` directory and the `x_wing` directory out of the `yavin_4` directory and into the `galaxy_far_far_away` directory.
+5. Move the `millenium-falcon` directory and the `x-wing` directory out of the `yavin-4` directory and into the `galaxy-far-far-away` directory.
 
-6. In the `death_star` directory, create directories for `tie_fighter_1`, `tie_fighter_2`, and `tie_fighter_3`.
+6. In the `death-star` directory, create directories for `tie-fighter-1`, `tie-fighter-2`, and `tie-fighter-3`.
 
-7. Move `darth_vader.txt` into the `tie_fighter_1` directory.
+7. Move `darth-vader.txt` into the `tie-fighter-1` directory.
 
-8. Make a copy of `storm_trooper.txt` into both the `tie_fighter_2` and `tie_fighter_3` directories.
+8. Make a copy of `storm-trooper.txt` into both the `tie-fighter-2` and `tie-fighter-3` directories.
 
-9. Move all of the `tie_fighters` directories out of the `death_star` directory and into `galaxy_far_far_away` directory.
+9. Move all of the `tie-fighters` directories out of the `death-star` directory and into `galaxy-far-far-away` directory.
 
 ## Part VII: `rm -r`: Remove directories and everything they contain
 
@@ -118,7 +118,7 @@ Always make sure you are deleting the right thing, or you could accidentally del
 
 **Practice:**
 
-1. Remove the `tie_fighter_2` and `tie_fighter_3` directories.
+1. Remove the `tie-fighter-2` and `tie-fighter-3` directories.
 
 ## Part VIII: May the Force be with you
 
@@ -126,11 +126,11 @@ Let's wrap up this story properly.
 
 **Practice:**
 
-1. Touch a file in the `x_wing` directory called `the_force.txt`.
+1. Touch a file in the `x-wing` directory called `the-force.txt`.
 
-2. Destroy the `death_star` directory and anyone inside of it.
+2. Destroy the `death-star` directory and anyone inside of it.
 
-3. Return the `x_wing` and `millenium_falcon` directory to the `yavin_4` directory.
+3. Return the `x-wing` and `millenium-falcon` directory to the `yavin-4` directory.
 
 ## Part IX: Clean up 
 
@@ -140,6 +140,6 @@ Let's wrap up this story properly.
    cd ~/code/ga/labs
    ```
 
-2. Remove the `star_wars` directory and all its contents. 
+2. Remove the `star-wars` directory and all its contents. 
 
 Like it never happened!
