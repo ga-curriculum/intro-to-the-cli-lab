@@ -1,24 +1,27 @@
 # ![Intro to the CLI Lab](./assets/hero.png)
 
-## Introduction
+## About
 
 Learning the command line is a foundational skill for new coders. It provides direct interaction with your computer, offering a level of control often impossible with graphical interfaces. As you advance, you'll find that many development tools, libraries, and cloud services are optimized for command-line use. Understanding the command line is crucial for tasks like version control, file manipulation, and task automation. 
 
 Practice using this essential tool can significantly streamline your workflow, making you more efficient and confident as a developer.
 
-## Lab content
+## Prerequisites
 
-- [Setup](./setup/README.md)
-- [Lab exercise](./exercise/README.md)
-- ***No Solution Code Provided***
+- Intro to the CLI
 
 ## Time to complete
 
 Estimated time to complete core lab exercise: **60 min**
 
-## Additional content 
+## Content
 
-🚀 [Level Up](./level-up/README.md)
+- [Setup](./setup/README.md)
+- [Lab exercise](./exercise/README.md)
+
+## Solution code
+
+No solution code
 
 ## Internal resources
 
