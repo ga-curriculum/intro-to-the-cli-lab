@@ -6,9 +6,6 @@ Learning the command line is a foundational skill for new coders. It provides di
 
 Practice using this essential tool can significantly streamline your workflow, making you more efficient and confident as a developer.
 
-## Time to complete
-
-Estimated time to complete core lab exercise: **60 min**
 
 ## Content
 
