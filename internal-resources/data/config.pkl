@@ -25,5 +25,13 @@ courses {
       mls.exercise
     }
   }
+  new {
+    name = "seb"
+    microlessons {
+      // add microlessons here, in the order they should be delivered
+      mls.setup
+      mls.exercise
+    }
+  }
 }
 
