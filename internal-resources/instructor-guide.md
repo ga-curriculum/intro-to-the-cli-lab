@@ -1,4 +1,7 @@
-# ![Intro to the CLI Lab - Instructor Guide](../assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI Lab</span>
+  <span class="subhead">Instructor Guide</span>
+</h1>
 
 ***Nothing here yet.***
 
