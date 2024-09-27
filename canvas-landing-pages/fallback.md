@@ -13,4 +13,4 @@ Practice using this essential tool can significantly streamline your workflow, m
 ## Content
 
 - [Setup](../setup/README.md)
-- [Lab exercise](../exercise/README.md)
+- [Exercise](../exercise/README.md)
