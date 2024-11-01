@@ -1,4 +1,7 @@
-# ![Intro to the CLI Lab - Exercise](./assets/hero.png)
+<h1>
+  <span class="headline">Intro to the CLI Lab</span>
+  <span class="subhead">Exercise</span>
+</h1>
 
 ## Episode X: A New Terminal
 
